@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "7343143974:AAFjaSFCrgv5MdrZDyLXv_YXhDPiYphLFq0"                              # Require restart after changing it while bot running
+OWNER_ID = "943270135"                               # Require restart after changing it while bot running
+TELEGRAM_API = "28983177"                           # Require restart after changing it while bot running
+TELEGRAM_HASH = "a0da2f0c10923e1c080fd86ab4c04051"                          # Require restart after changing it while bot running
+DATABASE_URL = "mongodb+srv://resourjickm1:Cidcompressrot@cidcompressrot.v2g1mqi.mongodb.net/?retryWrites=true&w=majority&appName=Cidcompressrot"                           # Require restart after changing it while bot running
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
